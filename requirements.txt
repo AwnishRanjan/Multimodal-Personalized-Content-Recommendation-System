@@ -1,0 +1,31 @@
+# Core dependencies
+numpy==1.24.2
+pandas==2.0.2
+scikit-learn==1.2.2
+scipy==1.10.1
+matplotlib==3.7.1
+seaborn==0.12.2
+tqdm==4.65.0
+
+# NLP and Transformers
+transformers==4.30.0
+torch==2.0.0
+tensorflow==2.13.0
+nltk==3.8.1
+spacy==3.5.0
+scikit-learn==1.2.2
+
+# Image processing
+Pillow==10.0.0
+opencv-python-headless==4.7.0.72
+torchvision==0.15.0
+keras==2.14.0
+
+# Data manipulation
+pyyaml==6.0
+
+# Web scraping (if applicable)
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+-e .

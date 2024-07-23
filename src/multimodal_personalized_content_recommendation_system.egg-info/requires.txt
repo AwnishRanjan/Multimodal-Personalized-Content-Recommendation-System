@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+transformers
+Pillow
+opencv-python
+matplotlib
+seaborn
+
+[dev]
+pytest
+flake8
